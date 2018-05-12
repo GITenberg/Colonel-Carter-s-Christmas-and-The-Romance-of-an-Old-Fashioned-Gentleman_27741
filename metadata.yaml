@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/444
     wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27741#Colonel-Carter-s-Christmas-and-The-Romance-of-an-Old-Fashioned-Gentleman
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
